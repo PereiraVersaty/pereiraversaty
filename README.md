@@ -2,7 +2,7 @@
 
 About me:
 
-- :telescope: I’m currently working on freelance projects
+- :telescope: I’m currently studying lua
 - :thinking: Ask me about what you want to
 - :mailbox: Contact by Discord: Pereira#9999
 

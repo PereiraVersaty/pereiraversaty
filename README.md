@@ -2,7 +2,7 @@
 
 About me:
 
-- :telescope: I’m currently studying .LUA
+- :telescope: .LUA developer
 - :thinking: Ask me about what you want to
 - :mailbox: Contact by Discord: Pereira#9999
 
